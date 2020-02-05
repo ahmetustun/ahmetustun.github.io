@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Murathan Kurfalı | AHMET ÜSTÜN&#39;S WEBSITE</title>
+    <link>/authors/murathan-kurfal%C4%B1/</link>
+      <atom:link href="/authors/murathan-kurfal%C4%B1/index.xml" rel="self" type="application/rss+xml" />
+    <description>Murathan Kurfalı</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Murathan Kurfalı</title>
+      <link>/authors/murathan-kurfal%C4%B1/</link>
+    </image>
+    
+    <item>
+      <title>Characters or Morphemes: How to Represent Words?</title>
+      <link>/publication/ustun-2018-characters/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ustun-2018-characters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TextLink Web Portal</title>
+      <link>/publication/ustun-2017-textlink/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ustun-2017-textlink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Trie-Structured Bayesian Model for Unsupervised Morphological Segmentation</title>
+      <link>/publication/ustun-2017-trie/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ustun-2017-trie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turkish PoS Tagging by Reducing Sparsity with Morpheme Tags in Small Datasets</title>
+      <link>/publication/ustun-2016-turkish/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ustun-2016-turkish/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

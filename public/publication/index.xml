@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | AHMET ÜSTÜN&#39;S WEBSITE</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>There and Back Again: Cross-Lingual Transfer Learning for Event Detection</title>
+      <link>/publication/ustun-2019-transfer/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ustun-2019-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Lingual Word Embeddings for Morphologically Rich Languages</title>
+      <link>/publication/ustun-2019-cross/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ustun-2019-cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Team: A Multi-attention, Multi-decoder Approach to Morphological Analysis</title>
+      <link>/publication/ustun-2019-multi/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ustun-2019-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characters or Morphemes: How to Represent Words?</title>
+      <link>/publication/ustun-2018-characters/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ustun-2018-characters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TextLink Web Portal</title>
+      <link>/publication/ustun-2017-textlink/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ustun-2017-textlink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Learning Of Turkish Morphosemantics By Latent Syntax</title>
+      <link>/publication/ustun-2018-thesis/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ustun-2018-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Trie-Structured Bayesian Model for Unsupervised Morphological Segmentation</title>
+      <link>/publication/ustun-2017-trie/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ustun-2017-trie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Morphological Segmentation Using Neural Word Embeddings</title>
+      <link>/publication/ustun-2017-unsupervised/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ustun-2017-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turkish PoS Tagging by Reducing Sparsity with Morpheme Tags in Small Datasets</title>
+      <link>/publication/ustun-2016-turkish/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/ustun-2016-turkish/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

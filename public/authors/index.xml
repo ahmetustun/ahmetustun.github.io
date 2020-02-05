@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | AHMET ÜSTÜN&#39;S WEBSITE</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a PhD Student in Computational Linguistics at the University of Groningen, supervised by Gosse Bouma and Gertjan van Noord. My research mainly focuses on multilingual natural language processing, inclusing multilingual language modelling and syntactic analysis. In particular I work on multilingual dependency parsing with a special interest of low-resource languages, by using multilingual language models. My other research interests include morphology, unsupervised learning and transfer learning.&lt;/p&gt;
+&lt;p&gt;Previously, I completed my MS in Cognitive Science and BS in Electrical and Electronics Engineering at the Middle East Technical University. After my MS, I did an intern at the School of Informatics in University of Edinburgh. I also founded a startup and worked as a software engineer, before my PhD studies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tommaso Caselli</title>
+      <link>/authors/tommaso-caselli/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/tommaso-caselli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gertjan van Noord</title>
+      <link>/authors/gertjan-van-noord/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/gertjan-van-noord/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gosse Bouma</title>
+      <link>/authors/gosse-bouma/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/gosse-bouma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rob van der Goot</title>
+      <link>/authors/rob-van-der-goot/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/rob-van-der-goot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burcu Can</title>
+      <link>/authors/burcu-can/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/burcu-can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Murathan Kurfalı</title>
+      <link>/authors/murathan-kurfal%C4%B1/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/murathan-kurfal%C4%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bonnie Webber</title>
+      <link>/authors/bonnie-webber/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/bonnie-webber/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
