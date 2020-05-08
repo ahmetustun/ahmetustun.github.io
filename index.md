@@ -2,21 +2,21 @@
 layout: default
 ---
 
-# About me
+## About me
 My name is Ahmet Üstün and I'm second-year PhD Student in the [Center for Language and Cognition (CLCG)](https://www.rug.nl/research/clcg/) at the University of Groningen. I'm working as a member of [Computational Linguistics](https://www.rug.nl/research/clcg/research/cl/) research group under the supervision of Arianna Bisazza, Gosse Bouma and Gerjan van Noord. <br><br>
 
-# Research
+## Research
 
  My research is mainly on multilingual natural language processing with a special interest of cross-lingual transfer learning. Currently, I work on multilingual dependency parsing that focuses on the transfer learning for low-resource languages without suffering _the curse of multilinguality_. My other research interests include NLP methods for morphologically-rich languages and unsupervised learning of morphology. <br><br>
 
-# Education
+## Education
 **Ph.D. in Computational Linguistics**, University of Groningen
 
 **M.S. in Cognitive Science**, Middle East Technical University
 
 **B.S. in Electrical and Electronics Engineering**, Middle East Technical University <br><br>
 
-# Selected Publications
+## Selected Publications
 Cross-Lingual Word Embeddings for Morphologically Rich Languages <br>
 `Ahmet Üstün, Gosse Bouma and Gertjan van Noord` <br>
 In RANLP 2019 [[pdf]](https://www.aclweb.org/anthology/R19-1140/)
@@ -31,7 +31,7 @@ In Representation Learning for NLP Workshop, hosted by ACL 2018 **(best paper)**
 
 [_All Publications_](./publication.html)
 
-# Activities
+## Activities
 
 ### 2020
 `Jan` Presented at [CLIN 30](https://clin30.sites.uu.nl/)
