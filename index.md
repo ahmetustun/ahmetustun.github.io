@@ -17,6 +17,11 @@ My name is Ahmet Üstün and I'm second-year PhD Student in the [Center for Lang
 **B.S. in Electrical and Electronics Engineering**, Middle East Technical University <br><br>
 
 ## Selected Publications
+
+Incorporating Word Embeddings in Unsupervised Morphological Segmentation <br>
+`Ahmet Üstün and Burcu Can` <br>
+In Journal of Natural Language Engineering, 2020 [[doi]](http://dx.doi.org/10.1017/S1351324920000406)
+
 Cross-Lingual Word Embeddings for Morphologically Rich Languages <br>
 `Ahmet Üstün, Gosse Bouma and Gertjan van Noord` <br>
 In RANLP 2019 [[pdf]](https://www.aclweb.org/anthology/R19-1140/)

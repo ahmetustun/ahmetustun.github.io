@@ -6,7 +6,7 @@ layout: default
 
 Incorporating Word Embeddings in Unsupervised Morphological Segmentation <br>
 `Ahmet Üstün, Burcu Can` <br>
-In Natural Language Engineering, 2019 (to appear)
+In Journal of Natural Language Engineering, 2020 [[doi]](http://dx.doi.org/10.1017/S1351324920000406)
 
 There and Back Again: Cross-Lingual Transfer Learning for Event Detection <br>
 `Tommaso Caselli, Ahmet Üstün` <br> 
