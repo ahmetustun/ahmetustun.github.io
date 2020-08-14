@@ -39,6 +39,7 @@ In Representation Learning for NLP Workshop, hosted by ACL 2018 **(best paper)**
 ## Activities
 
 ### 2020
+`Jul` [Published journal paper](http://dx.doi.org/10.1017/S1351324920000406) on unsupervised learning of morphology in Natural Language Engineering
 `Jan` Presented at [CLIN 30](https://clin30.sites.uu.nl/)
 
 ### 2019
@@ -63,6 +64,6 @@ In Representation Learning for NLP Workshop, hosted by ACL 2018 **(best paper)**
 <br>`Apr` Presented at [CICLing 2017](https://www.cicling.org/2017/)
 
 ### 2016
-`Oct` [Published paper](https://drive.google.com/file/d/1d0aYABZMVEk7P3geNMRxfZ9WmcdZP8oq/view) on unsupervised morphological segmentatiion at SLSP 2017
+`Oct` [Published paper](https://drive.google.com/file/d/1d0aYABZMVEk7P3geNMRxfZ9WmcdZP8oq/view) on unsupervised morphological segmentation at SLSP 2017
 <br>`Oct` Presented at [SLSP 2017](http://grammars.grlmc.com/SLSP2016/)
 <br>`Apr` [Published paper](https://arxiv.org/pdf/1703.03200.pdf) on Turkish PoS tagging at CICLing 2016 (co-author)
