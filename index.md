@@ -40,7 +40,7 @@ In Representation Learning for NLP Workshop, hosted by ACL 2018 **(best paper)**
 
 ### 2020
 `Jul` [Published journal paper](http://dx.doi.org/10.1017/S1351324920000406) on unsupervised learning of morphology in Natural Language Engineering
-`Jan` Presented at [CLIN 30](https://clin30.sites.uu.nl/)
+<br>`Jan` Presented at [CLIN 30](https://clin30.sites.uu.nl/)
 
 ### 2019
 `Dec` Research visit (2 weeks) at [Computer Science department](https://en.itu.dk/research/departments/computer-science-department) of ITU Copenhagen
