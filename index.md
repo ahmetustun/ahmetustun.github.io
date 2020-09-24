@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About me
-My name is Ahmet Üstün and I'm second-year PhD Student in the [Center for Language and Cognition (CLCG)](https://www.rug.nl/research/clcg/) at the University of Groningen. I'm working as a member of [Computational Linguistics](https://www.rug.nl/research/clcg/research/cl/) research group under the supervision of Arianna Bisazza, Gosse Bouma and Gerjan van Noord. <br><br>
+My name is Ahmet Üstün and I'm second-year PhD Student in the [Center for Language and Cognition (CLCG)](https://www.rug.nl/research/clcg/) at the University of Groningen. I'm working as a member of [Computational Linguistics](https://www.rug.nl/research/clcg/research/cl/) research group under the supervision of Arianna Bisazza, Gosse Bouma and Gertjan van Noord. <br><br>
 
 ## Research
 
