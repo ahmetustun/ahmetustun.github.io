@@ -18,7 +18,7 @@ My name is Ahmet Üstün and I'm second-year PhD Student in the [Center for Lang
 
 ## Selected Publications
 
-UDapter: Language Adaptation for Truly Universal Dependency Parsing
+UDapter: Language Adaptation for Truly Universal Dependency Parsing <br>
 `Ahmet Üstün, Arianna Bisazza, Gosse Bouma and Gertjan van Noord` <br>
 In EMNLP 2020 [[pdf]](https://arxiv.org/abs/2004.14327)
 
@@ -39,9 +39,9 @@ In Representation Learning for NLP Workshop, hosted by ACL 2018 **(best paper)**
 ## Activities
 
 ### 2020
-`Sep` [UDapter](https://arxiv.org/abs/2004.14327) that introduce multilingual parser with language adapters got accepted to EMNLP 2020 as a long papar
+`Sep` [UDapter](https://arxiv.org/abs/2004.14327) that introduces a multilingual parser with language adapters got accepted to EMNLP 2020
 <br>`Jul` [Published journal paper](http://dx.doi.org/10.1017/S1351324920000406) on unsupervised learning of morphology in Natural Language Engineering
-<br>`Jul` [Published paper](https://arxiv.org/pdf/2007.12544.pdf) on code-switched sentiment analysis for SemEval-2020 Task-9 (co-author/superviser)
+<br>`Jul` [Published paper](https://arxiv.org/pdf/2007.12544.pdf) on code-switched sentiment analysis for SemEval-2020 Task-9 (co-author)
 <br>`Jan` Presented at [CLIN 30](https://clin30.sites.uu.nl/)
 
 ### 2019
