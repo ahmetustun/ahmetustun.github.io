@@ -18,6 +18,10 @@ My name is Ahmet Üstün and I'm second-year PhD Student in the [Center for Lang
 
 ## Selected Publications
 
+UDapter: Language Adaptation for Truly Universal Dependency Parsing
+`Ahmet Üstün, Arianna Bisazza, Gosse Bouma and Gertjan van Noord` <br>
+In EMNLP 2020 [[pdf]](https://arxiv.org/abs/2004.14327)
+
 Incorporating Word Embeddings in Unsupervised Morphological Segmentation <br>
 `Ahmet Üstün and Burcu Can` <br>
 In Journal of Natural Language Engineering, 2020 [[doi]](http://dx.doi.org/10.1017/S1351324920000406)
@@ -25,10 +29,6 @@ In Journal of Natural Language Engineering, 2020 [[doi]](http://dx.doi.org/10.10
 Cross-Lingual Word Embeddings for Morphologically Rich Languages <br>
 `Ahmet Üstün, Gosse Bouma and Gertjan van Noord` <br>
 In RANLP 2019 [[pdf]](https://www.aclweb.org/anthology/R19-1140/)
-
-Multi-Team: A Multi-attention, Multi-decoder Approach to Morphological Analysis <br>
-`Ahmet Üstün, Rob van der Goot, Gosse Bouma and Gertjan van Noord` <br>
-In SIGMORPHON 2019, hosted by ACL 2019 [[pdf]](https://www.aclweb.org/anthology/W19-4206/)
 
 Characters or Morphemes: How to Represent Words? <br>
 `Ahmet Üstün, Murathan Kurfalı, and Burcu Can` <br>
@@ -39,7 +39,9 @@ In Representation Learning for NLP Workshop, hosted by ACL 2018 **(best paper)**
 ## Activities
 
 ### 2020
-`Jul` [Published journal paper](http://dx.doi.org/10.1017/S1351324920000406) on unsupervised learning of morphology in Natural Language Engineering
+`Sep` [UDapter](https://arxiv.org/abs/2004.14327) that introduce multilingual parser with language adapters got accepted to EMNLP 2020 as a long papar
+<br>`Jul` [Published journal paper](http://dx.doi.org/10.1017/S1351324920000406) on unsupervised learning of morphology in Natural Language Engineering
+<br>`Jul` [Published paper](https://arxiv.org/pdf/2007.12544.pdf) on code-switched sentiment analysis for SemEval-2020 Task-9 (co-author/superviser)
 <br>`Jan` Presented at [CLIN 30](https://clin30.sites.uu.nl/)
 
 ### 2019
