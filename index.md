@@ -19,7 +19,7 @@ My research focuses on multilingual natural language processing with a special i
 ## Selected Publications
 
 Massive Choice, Ample Tasks (MACHAMP): A Toolkit for Multi-task Learning in NLP <br>
-`Rob van der Goot, Ahmet  stün, Alan Ramponi, Ibrahim Sharaf, Barbara Plank` <br>
+`Rob van der Goot, Ahmet Üstün, Alan Ramponi, Ibrahim Sharaf, Barbara Plank` <br>
 In EACL 2021 **(best paper, demo track)** [[pdf]](https://arxiv.org/pdf/2005.14672.pdf)
 
 UDapter: Language Adaptation for Truly Universal Dependency Parsing <br>
@@ -43,21 +43,21 @@ In Representation Learning for NLP Workshop, hosted by ACL 2018 **(best paper)**
 ## Activities
 
 ### 2021
-`Jan-Jun` Reseach internship at [Naver Labs Europe] (https://europe.naverlabs.com/) on using adapters for multilingual unsupervised NMT under supervision of Alexandre Bérard, Laurent Besacier and Matthias Gallé
-<br>`Jun` [Published paper](https://arxiv.org/abs/2105.07316) on zero-shot slot and intent detection with auxiliary tasks in NAACL 2021 (co-author)
+`Jan-Jun` Reseach internship at [NAVER LABS Europe](https://europe.naverlabs.com/) on using adapters for multilingual unsupervised NMT under supervision of Alexandre Bérard, Laurent Besacier and Matthias Gallé
+<br>`Jun` [Published paper](https://arxiv.org/abs/2105.07316) on zero-shot slot and intent detection with auxiliary tasks in NAACL 2021 
 <br>`Apr` [MACHAMP](https://arxiv.org/pdf/2005.14672.pdf) <i> (A toolkit for multi-task learning in NLP)</i> won best paper award in demo track at EACL 2021 
 <br>`Apr` [Published paper](https://arxiv.org/abs/2105.07316) on effectiveness of dataset embeddings in AdaptNLP at EACL 2021
 
 ### 2020
 `Sep` [UDapter](https://arxiv.org/abs/2004.14327) that introduces a multilingual parser with language adapters got accepted to EMNLP 2020
 <br>`Jul` [Published journal paper](http://dx.doi.org/10.1017/S1351324920000406) on unsupervised learning of morphology in Natural Language Engineering
-<br>`Jul` [Published paper](https://arxiv.org/pdf/2007.12544.pdf) on code-switched sentiment analysis for SemEval-2020 Task-9 (co-author)
+<br>`Jul` [Published paper](https://arxiv.org/pdf/2007.12544.pdf) on code-switched sentiment analysis for SemEval-2020 Task-9 
 <br>`Jun` [MACHAMP](https://arxiv.org/pdf/2005.14672.pdf) <i> (A toolkit for multi-task learning in NLP)</i> is on the Arxiv
 <br>`Jan` Presented at [CLIN 30](https://clin30.sites.uu.nl/)
 
 ### 2019
 `Dec` Research visit (2 weeks) at [Computer Science department](https://en.itu.dk/research/departments/computer-science-department) of ITU Copenhagen
-<br>`Nov`  [Published paper](http://ceur-ws.org/Vol-2481/paper15.pdf) on transfer learning for event detection at CLIC-it 2019 (co-author)
+<br>`Nov`  [Published paper](http://ceur-ws.org/Vol-2481/paper15.pdf) on transfer learning for event detection at CLIC-it 2019 
 <br>`Sep`  [Published paper](https://www.aclweb.org/anthology/R19-1140/) on morphology aware cross-lingual word embeddings at RANLP 2019
 <br>`Sep`  Presented at [RANLP 2019](http://ranlp.org/archive/ranlp2019/start.php)
 <br>`Aug`  [Published paper](https://www.aclweb.org/anthology/W19-4206/) at SIGMORPHON 2019 shared task (ACL 2019)
@@ -73,10 +73,10 @@ In Representation Learning for NLP Workshop, hosted by ACL 2018 **(best paper)**
 `Nov` Research internship (2 Months) at [ILCC](http://web.inf.ed.ac.uk/ilcc) at the University of Edinburgh
 <br>`Sep` Published [M.S. Thesis](http://etd.lib.metu.edu.tr/upload/12621487/index.pdf) on probabilistic learning of Turkish morphosemantics
 <br>`Sep` Awarded an entrepreneurship grant by the Technological Research Council of Turkey
-<br>`Apr` [Published paper](https://arxiv.org/pdf/1704.07329.pdf) at CICLing 2017 on bayesian modelling of morphology (co-author)
+<br>`Apr` [Published paper](https://arxiv.org/pdf/1704.07329.pdf) at CICLing 2017 on bayesian modelling of morphology 
 <br>`Apr` Presented at [CICLing 2017](https://www.cicling.org/2017/)
 
 ### 2016
 `Oct` [Published paper](https://drive.google.com/file/d/1d0aYABZMVEk7P3geNMRxfZ9WmcdZP8oq/view) on unsupervised morphological segmentation at SLSP 2017
 <br>`Oct` Presented at [SLSP 2017](http://grammars.grlmc.com/SLSP2016/)
-<br>`Apr` [Published paper](https://arxiv.org/pdf/1703.03200.pdf) on Turkish PoS tagging at CICLing 2016 (co-author)
+<br>`Apr` [Published paper](https://arxiv.org/pdf/1703.03200.pdf) on Turkish PoS tagging at CICLing 2016 
