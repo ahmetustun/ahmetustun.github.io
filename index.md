@@ -7,7 +7,7 @@ My name is Ahmet Üstün and I'm second-year PhD Student in the [Center for Lang
 
 ## Research
 
- My research is mainly on multilingual natural language processing with a special interest of cross-lingual transfer learning. Currently, I work on multilingual dependency parsing that focuses on the transfer learning for low-resource languages without suffering _the curse of multilinguality_. My other research interests include NLP methods for morphologically-rich languages and unsupervised learning of morphology. <br><br>
+My research focuses on multilingual natural language processing with a special interest of cross-lingual transfer learning. In this context, I worked on cross-lingual word embeddings, multilingual dependency parsing and multilingual unsupervised NMT. My reserarch aim is to find efficient multilingual adaptation methods for low-resource languages without suffering _the curse of multilinguality_. My other research interests include NLP methods for morphologically-rich languages and unsupervised learning of morphology. <br><br>
 
 ## Education
 **Ph.D. in Computational Linguistics**, University of Groningen
@@ -17,6 +17,10 @@ My name is Ahmet Üstün and I'm second-year PhD Student in the [Center for Lang
 **B.S. in Electrical and Electronics Engineering**, Middle East Technical University <br><br>
 
 ## Selected Publications
+
+Massive Choice, Ample Tasks (MACHAMP): A Toolkit for Multi-task Learning in NLP <br>
+`Rob van der Goot, Ahmet  stün, Alan Ramponi, Ibrahim Sharaf, Barbara Plank` <br>
+In EACL 2021 **(best paper, demo track)** [[pdf]](https://arxiv.org/pdf/2005.14672.pdf)
 
 UDapter: Language Adaptation for Truly Universal Dependency Parsing <br>
 `Ahmet Üstün, Arianna Bisazza, Gosse Bouma and Gertjan van Noord` <br>
@@ -37,6 +41,12 @@ In Representation Learning for NLP Workshop, hosted by ACL 2018 **(best paper)**
 [_All Publications_](./publication.html)
 
 ## Activities
+
+### 2021
+`Jan-Jun` Reseach internship at [Naver Labs Europe] (https://europe.naverlabs.com/) on using adapters for multilingual unsupervised NMT under supervision of Alexandre Bérard, Laurent Besacier and Matthias Gallé
+<br>`Jun` [Published paper](https://arxiv.org/abs/2105.07316) on zero-shot slot and intent detection with auxiliary tasks in NAACL 2021 (co-author)
+<br>`Apr` [MACHAMP](https://arxiv.org/pdf/2005.14672.pdf) <i> (A toolkit for multi-task learning in NLP)</i> won best paper award in demo track at EACL 2021 
+<br>`Apr` [Published paper](https://arxiv.org/abs/2105.07316) on effectiveness of dataset embeddings in AdaptNLP at EACL 2021
 
 ### 2020
 `Sep` [UDapter](https://arxiv.org/abs/2004.14327) that introduces a multilingual parser with language adapters got accepted to EMNLP 2020
