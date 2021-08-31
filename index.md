@@ -19,7 +19,7 @@ My research focuses on multilingual natural language processing with a special i
 ## Selected Publications
 Multilingual Unsupervised Neural Machine Translation with Denoising Adapters <br>
 _Ahmet Üstün, Alexandre Berard, Laurent Besacier, Matthias Gallé_ <br>
-In EMNLP 2021 [[Preprint coming soon]]
+In EMNLP 2021 **(Preprint coming soon)**
 
 Massive Choice, Ample Tasks (MACHAMP): A Toolkit for Multi-task Learning in NLP <br>
 _Rob van der Goot, Ahmet Üstün, Alan Ramponi, Ibrahim Sharaf, Barbara Plank_ <br>
