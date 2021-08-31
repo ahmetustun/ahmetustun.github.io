@@ -17,25 +17,20 @@ My research focuses on multilingual natural language processing with a special i
 **B.S. in Electrical and Electronics Engineering**, Middle East Technical University <br><br>
 
 ## Selected Publications
+Multilingual Unsupervised Neural Machine Translation with Denoising Adapters <br>
+_Ahmet Üstün, Alexandre Berard, Laurent Besacier, Matthias Gallé_ <br>
+In EMNLP 2021 [[Preprint coming soon]]
 
 Massive Choice, Ample Tasks (MACHAMP): A Toolkit for Multi-task Learning in NLP <br>
-`Rob van der Goot, Ahmet Üstün, Alan Ramponi, Ibrahim Sharaf, Barbara Plank` <br>
+_Rob van der Goot, Ahmet Üstün, Alan Ramponi, Ibrahim Sharaf, Barbara Plank_ <br>
 In EACL 2021 **(best paper, demo track)** [[pdf]](https://arxiv.org/pdf/2005.14672.pdf)
 
 UDapter: Language Adaptation for Truly Universal Dependency Parsing <br>
-`Ahmet Üstün, Arianna Bisazza, Gosse Bouma and Gertjan van Noord` <br>
+_Ahmet Üstün, Arianna Bisazza, Gosse Bouma and Gertjan van Noord_ <br>
 In EMNLP 2020 [[pdf]](https://arxiv.org/abs/2004.14327)
 
-Incorporating Word Embeddings in Unsupervised Morphological Segmentation <br>
-`Ahmet Üstün and Burcu Can` <br>
-In Journal of Natural Language Engineering, 2020 [[doi]](http://dx.doi.org/10.1017/S1351324920000406)
-
-Cross-Lingual Word Embeddings for Morphologically Rich Languages <br>
-`Ahmet Üstün, Gosse Bouma and Gertjan van Noord` <br>
-In RANLP 2019 [[pdf]](https://www.aclweb.org/anthology/R19-1140/)
-
 Characters or Morphemes: How to Represent Words? <br>
-`Ahmet Üstün, Murathan Kurfalı, and Burcu Can` <br>
+_Ahmet Üstün, Murathan Kurfalı, and Burcu Can_ <br>
 In Representation Learning for NLP Workshop, hosted by ACL 2018 **(best paper)** [[pdf]](https://www.aclweb.org/anthology/R19-1140/)
 
 [_All Publications_](./publication.html)
@@ -43,7 +38,8 @@ In Representation Learning for NLP Workshop, hosted by ACL 2018 **(best paper)**
 ## Activities
 
 ### 2021
-`Jan-Jun` Reseach internship at [NAVER LABS Europe](https://europe.naverlabs.com/) on using adapters for multilingual unsupervised NMT under supervision of Alexandre Bérard, Laurent Besacier and Matthias Gallé
+`Aug` Our paper "Multilingual Unsupervised Neural Machine Translation with Denoising Adapter" is accepted to EMNLP 2021
+<br>`Jan-Jun` Reseach internship at [NAVER LABS Europe](https://europe.naverlabs.com/) on using adapters for multilingual unsupervised NMT under supervision of Alexandre Bérard, Laurent Besacier and Matthias Gallé
 <br>`Jun` [Published paper](https://arxiv.org/abs/2105.07316) on zero-shot slot and intent detection with auxiliary tasks in NAACL 2021 
 <br>`Apr` [MACHAMP](https://arxiv.org/pdf/2005.14672.pdf) <i> (A toolkit for multi-task learning in NLP)</i> won best paper award in demo track at EACL 2021 
 <br>`Apr` [Published paper](https://arxiv.org/abs/2105.07316) on effectiveness of dataset embeddings in AdaptNLP at EACL 2021
