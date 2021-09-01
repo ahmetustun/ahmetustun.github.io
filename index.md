@@ -31,7 +31,7 @@ In EMNLP 2020 [[pdf]](https://arxiv.org/abs/2004.14327)
 
 Characters or Morphemes: How to Represent Words? <br>
 _Ahmet Üstün, Murathan Kurfalı, and Burcu Can_ <br>
-In Representation Learning for NLP Workshop, hosted by ACL 2018 **(Best paper award)** [[pdf]](https://www.aclweb.org/anthology/R19-1140/)
+In 3rd Workshop on Representation Learning for NLP, @ACL 2018 **(Best paper award)** [[pdf]](https://www.aclweb.org/anthology/R19-1140/)
 
 [_All Publications_](./publication.html)
 
