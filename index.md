@@ -19,11 +19,11 @@ My research focuses on multilingual natural language processing with a special i
 ## Selected Publications
 Multilingual Unsupervised Neural Machine Translation with Denoising Adapters <br>
 _Ahmet Üstün, Alexandre Berard, Laurent Besacier, Matthias Gallé_ <br>
-In EMNLP 2021 **(Preprint coming soon)**
+In EMNLP 2021 **[preprint coming soon]**
 
 Massive Choice, Ample Tasks (MACHAMP): A Toolkit for Multi-task Learning in NLP <br>
 _Rob van der Goot, Ahmet Üstün, Alan Ramponi, Ibrahim Sharaf, Barbara Plank_ <br>
-In EACL 2021 **(Outstanding paper award, demo track)** [[pdf]](https://arxiv.org/pdf/2005.14672.pdf)
+In EACL 2021 **[outstanding paper award, demo track]** [[pdf]](https://arxiv.org/pdf/2005.14672.pdf)
 
 UDapter: Language Adaptation for Truly Universal Dependency Parsing <br>
 _Ahmet Üstün, Arianna Bisazza, Gosse Bouma and Gertjan van Noord_ <br>
@@ -31,7 +31,7 @@ In EMNLP 2020 [[pdf]](https://arxiv.org/abs/2004.14327)
 
 Characters or Morphemes: How to Represent Words? <br>
 _Ahmet Üstün, Murathan Kurfalı, and Burcu Can_ <br>
-In 3rd Workshop on Representation Learning for NLP, @ACL 2018 **(Best paper award)** [[pdf]](https://www.aclweb.org/anthology/R19-1140/)
+In 3rd Workshop on Representation Learning for NLP, @ACL2018 **[best paper award]** [[pdf]](https://www.aclweb.org/anthology/R19-1140/)
 
 [_All Publications_](./publication.html)
 
