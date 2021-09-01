@@ -23,15 +23,16 @@ In EMNLP 2021 **[preprint coming soon]**
 
 Massive Choice, Ample Tasks (MACHAMP): A Toolkit for Multi-task Learning in NLP <br>
 _Rob van der Goot, Ahmet Üstün, Alan Ramponi, Ibrahim Sharaf, Barbara Plank_ <br>
-In EACL 2021 **[outstanding paper award, demo track]** [[pdf]](https://arxiv.org/pdf/2005.14672.pdf)
+In EACL 2021 **[outstanding paper award, demo track]** [[pdf]](https://arxiv.org/pdf/2005.14672.pdf) [[website]](https://machamp-nlp.github.io/)
 
 UDapter: Language Adaptation for Truly Universal Dependency Parsing <br>
 _Ahmet Üstün, Arianna Bisazza, Gosse Bouma and Gertjan van Noord_ <br>
-In EMNLP 2020 [[pdf]](https://arxiv.org/abs/2004.14327)
+In EMNLP 2020 [[pdf]](https://arxiv.org/abs/2004.14327) [[code]](https://github.com/ahmetustun/udapter)
 
 Characters or Morphemes: How to Represent Words? <br>
 _Ahmet Üstün, Murathan Kurfalı, and Burcu Can_ <br>
-In 3rd Workshop on Representation Learning for NLP, @ACL2018 **[best paper award]** [[pdf]](https://www.aclweb.org/anthology/R19-1140/)
+In 3rd Workshop on Representation Learning for NLP, @ACL2018 
+**[best paper award]** [[pdf]](https://www.aclweb.org/anthology/R19-1140/) [[code, data]](http://nlp.cs.hacettepe.edu.tr/projects/morph2vec/)
 
 [_All Publications_](./publication.html)
 
