@@ -39,7 +39,9 @@ In 3rd Workshop on Representation Learning for NLP, @ACL2018
 ## Activities
 
 ### 2021
-`Aug` Our paper "Multilingual Unsupervised Neural Machine Translation with Denoising Adapter" is accepted to EMNLP 2021
+`Sep` Research visit at [NAVER LABS Europe](https://europe.naverlabs.com/)
+<br>`Aug` Our paper "Multilingual Unsupervised Neural Machine Translation with Denoising Adapter" is accepted to EMNLP 2021
+<br>`Jul` Our paper "On the Difficulty of Translating Free-Order Case-Marking Languages" is accepted to TACL
 <br>`Jan-Jun` Reseach internship at [NAVER LABS Europe](https://europe.naverlabs.com/) on using adapters for multilingual unsupervised NMT under supervision of Alexandre Bérard, Laurent Besacier and Matthias Gallé
 <br>`Jun` [Published paper](https://arxiv.org/abs/2105.07316) on zero-shot slot and intent detection with auxiliary tasks in NAACL 2021 
 <br>`Apr` [MACHAMP](https://arxiv.org/pdf/2005.14672.pdf) <i> (A toolkit for multi-task learning in NLP)</i> won best paper award in demo track at EACL 2021 
