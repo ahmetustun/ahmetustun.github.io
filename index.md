@@ -19,7 +19,7 @@ My research focuses on multilingual natural language processing with a special i
 ## Selected Publications
 Multilingual Unsupervised Neural Machine Translation with Denoising Adapters <br>
 _Ahmet Üstün, Alexandre Berard, Laurent Besacier, Matthias Gallé_ <br>
-In EMNLP 2021 **[preprint coming soon]**
+In EMNLP 2021 [[pdf]](https://arxiv.org/pdf/2110.10472.pdf)
 
 Massive Choice, Ample Tasks (MACHAMP): A Toolkit for Multi-task Learning in NLP <br>
 _Rob van der Goot, Ahmet Üstün, Alan Ramponi, Ibrahim Sharaf, Barbara Plank_ <br>
@@ -40,7 +40,7 @@ In 3rd Workshop on Representation Learning for NLP, @ACL2018
 
 ### 2021
 `Sep` Research visit at [NAVER LABS Europe](https://europe.naverlabs.com/)
-<br>`Aug` Our paper "Multilingual Unsupervised Neural Machine Translation with Denoising Adapter" is accepted to EMNLP 2021
+<br>`Aug` Our paper ["Multilingual Unsupervised Neural Machine Translation with Denoising Adapter"](https://arxiv.org/pdf/2110.10472.pdf) is accepted to EMNLP 2021
 <br>`Jul` Our paper "On the Difficulty of Translating Free-Order Case-Marking Languages" is accepted to TACL
 <br>`Jan-Jun` Reseach internship at [NAVER LABS Europe](https://europe.naverlabs.com/) on using adapters for multilingual unsupervised NMT under supervision of Alexandre Bérard, Laurent Besacier and Matthias Gallé
 <br>`Jun` [Published paper](https://arxiv.org/abs/2105.07316) on zero-shot slot and intent detection with auxiliary tasks in NAACL 2021 

@@ -3,9 +3,14 @@ layout: default
 ---
 
 ## Publications
+
+Unsupervised Translation of German--Lower Sorbian: Exploring Training and Novel Transfer Methods on a Low-Resource Language <br>
+_Lukas Edman, Ahmet Üstün, Antonio Toral, Gertjan van Noord_
+In WMT 2021 [[pdf]](https://arxiv.org/pdf/2109.12012.pdf)
+
 Multilingual Unsupervised Neural Machine Translation with Denoising Adapters <br>
 _Ahmet Üstün, Alexandre Berard, Laurent Besacier, Matthias Gallé_
-In EMNLP 2021
+In EMNLP 2021 [[pdf]](https://arxiv.org/pdf/2110.10472.pdf)
 
 On the Difficulty of Translating Free-Order Case-Marking Languages <br>
 _Arianna Bisazza, Ahmet Üstün, Stephan Sportel_
